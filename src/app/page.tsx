@@ -2,10 +2,9 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex-col items-center justify-between pb-10">
+    <div className="flex flex-col items-center pb-10">
       <Image src="/main.png" alt="Dungeon Forged Vs" width={600} height={780} />
-      {/* First Paragraph */}
-      <div className="grid gap-8 place-items-center text-gray-700 text-2xl pt-10 px-4">
+      <div className="grid gap-8 place-items-center text-gray-700 text-2xl pt-10 px-4 lg:px-56">
         <p className="text-justify">
           Welcome to Dungeon Forged S&C, where your fitness goals become
           reality. Here, we don&apos;t just offer strength and conditioning—we

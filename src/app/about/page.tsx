@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function About() {
   return (
     <div className="pt-13 px-10 grid place-items-center lg:pt-16">
-      <div className="flex flex-col gap-4 pb-13 lg:flex-row">
+      <div className="flex flex-col gap-4 pb-13 lg:flex-row items-center lg:gap-10">
         <Image
           src="/mindset-white.png"
           alt="Mindset phrase"
