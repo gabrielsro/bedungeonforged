@@ -27,11 +27,11 @@ export default function About() {
             Since 2008, Mike has been a certified personal trainer with the
             National Federation of Personal Trainers (NFPT). His expertise lies
             in designing effective muscle group combinations tailored to his
-            clients' specific goals, whether they are sport-specific, general
-            fitness, or weight loss. Mike's approach emphasizes dedication, hard
-            work, and resilience, believing that these principles lead to
-            significant improvements in psychological, emotional, and physical
-            well-being.
+            clients&apos; specific goals, whether they are sport-specific,
+            general fitness, or weight loss. Mike&apos;s approach emphasizes
+            dedication, hard work, and resilience, believing that these
+            principles lead to significant improvements in psychological,
+            emotional, and physical well-being.
           </p>
           <p>
             Mike advocates for activity-specific training to enhance athletic
