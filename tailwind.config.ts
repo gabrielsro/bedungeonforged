@@ -15,7 +15,10 @@ const config: Config = {
       },
       spacing: {
         "lg-screen-max-col": "700px",
+        "lg-screen-video-container": "1150px",
         "13": "50px",
+        "sm-short": "200px",
+        "lg-short": "340px",
       },
     },
   },
