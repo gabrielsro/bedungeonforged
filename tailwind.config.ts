@@ -13,6 +13,10 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      spacing: {
+        "lg-screen-max-col": "700px",
+        "13": "50px",
+      },
     },
   },
   plugins: [],
